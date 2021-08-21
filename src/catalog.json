@@ -1,0 +1,44 @@
+[{
+        "id": 1,
+        "img": "../src/assets/img/first_card.png",
+        "name": "Windbreaker",
+        "description": "Lorem ipsum dolor sit adipisicing elit. Animi cupiditate fuga, nulla expedita nihil eligendi.",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "img": "../src/assets/img/second_card.png",
+        "name": "Blazer",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit fuga, nulla expedita nihil eligendi.",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "img": "../src/assets/img/third_card.png",
+        "name": "Hoody",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi cupiditate fuga, nulla expedita nihil eligendi.",
+        "price": 300
+    },
+    {
+        "id": 4,
+        "img": "../src/assets/img/fourth_card.png",
+        "name": "T-Shirt",
+        "description": "Lorem ipsum amet consectetur adipisicing elit. Animi cupiditate fuga, nulla expedita nihil eligendi.",
+        "price": 150
+    },
+    {
+        "id": 5,
+        "img": "../src/assets/img/fifth_card.png",
+        "name": "Jacket",
+        "description": "Lorem ipsum dolor sit amet consectetur elit. Animi cupiditate fuga, nulla expedita nihil eligendi.",
+        "price": 180
+    },
+    {
+        "id": 6,
+        "img": "../src/assets/img/sixth_card.png",
+        "name": "Shirt",
+        "description": "Lorem ipsum dolor consectetur adipisicing elit. Animi cupiditate fuga, nulla eligendi.",
+        "price": 80
+    }
+
+]
